@@ -1,1 +1,3 @@
 # leaflet-challenge
+
+This repository contains the code to create an interactive Leaflet map that shows all earthquakes globally that have occured in the last week. The data comes the US Geological Survey, and the map represents each earthquake with a circle marker in which size represents the magnitude of the earthquake and color corresponds to the depth at which the earthquake occured. Additional time and place information can be found by clicking on any of the markers.
